@@ -1,13 +1,13 @@
 {
   "description": {
-    "title": "Claim SampleID Airdrop!",
+    "title": "Claim Test Airdrop!",
     "body": "Your wallet is eligible to claim SampleID airdrop!",
-    "icon": "",
-    "link": "",
-    "status": "",
-    "token": "",
+    "icon": "https://static.berrylab.cloud/BrandKit/PNG/BerryLab_Profile2.png",
+    "link": "https://static.berrylab.cloud",
+    "status": "Claim",
+    "token": "SampleS",
     "name": "SampleID",
-    "date": "yyyy-mm-ddThh:mm:00.000Z",
-    "deadline": "yyyy-mm-ddThh:mm:00.000Z"
+    "date": "2024-01-05T01:01:00.000Z",
+    "deadline": "2024-02-15T01:01:00.000Z"
   }
 }
