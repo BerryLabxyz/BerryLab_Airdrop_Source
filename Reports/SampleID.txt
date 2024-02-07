@@ -1,0 +1,13 @@
+SampleID Airdrop
+-------------------
+Announcement Link:
+https://samplelink.com
+-------------------
+Eligible wallet List:
+https://samplelink.com
+-------------------
+Description:
+Sample info
+-------------------
+Reported By:
+0x0000000000000000000000000000000000000000
