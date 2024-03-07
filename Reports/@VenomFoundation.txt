@@ -1,0 +1,13 @@
+@VenomFoundation Airdrop
+-------------------
+Announcement Link:
+https://venom-network.medium.com/venom-venom-airdrop-learn-how-to-claim-8ca06c363fa8
+-------------------
+Eligible wallet List:
+https://venom.dappsdrop.network/
+-------------------
+Description:
+Venom is a scalable blockchain solution that is designed to meet the needs of real-world applications. Its unique architecture and technology enable Venom to provide a high level of performance and security, making it an ideal platform for decentralized applications. Venom has confirmed to launch an own token called “VENOM” and has launched its testnet. Users who’ve done testnet actions get an airdrop when they launch their token.
+-------------------
+Reported By:
+0xf3bF633759E993D7849B6C25B442432A81139367
