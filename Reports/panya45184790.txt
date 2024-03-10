@@ -1,0 +1,13 @@
+panya45184790 Airdrop
+-------------------
+Announcement Link:
+https://github.com/BerryLabxyz/BerryLab_Airdrop_Source
+-------------------
+Eligible wallet List:
+https://github.com/BerryLabxyz/BerryLab_Airdrop_Source/blob/main/List/optimism/wallets.txt
+-------------------
+Description:
+
+-------------------
+Reported By:
+0x3BC7d7a271B5C3167Ecbc43D66053886fFaFfa01
