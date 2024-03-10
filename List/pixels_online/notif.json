@@ -1,13 +1,13 @@
 {
   "description": {
-    "title": "Claim pixels_online Airdrop!",
-    "body": "Your wallet is eligible to claim pixels_online airdrop!",
-    "icon": "",
-    "link": "",
-    "status": "",
-    "token": "",
-    "name": "pixels_online",
-    "date": "yyyy-mm-ddThh:mm:00.000Z",
-    "deadline": "yyyy-mm-ddThh:mm:00.000Z"
+    "title": "Claim Pixels Online Airdrop!",
+    "body": "Your wallet is eligible to claim Pixels Online airdrop!",
+    "icon": "https://static.berrylab.cloud/token_icons/berrylab_Pixel.png",
+    "link": "https://twitter.com/pixels_online/status/1759030722592137703",
+    "status": "Claim",
+    "token": "Pixel",
+    "name": "Pixels Online",
+    "date": "2024-02-01T00:00:00.000Z",
+    "deadline": "2024-05-01T00:00:00.000Z"
   }
 }
